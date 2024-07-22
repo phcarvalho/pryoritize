@@ -22,6 +22,6 @@ pry -p "My new awesome priority"
 ## Installation
 
 ```bash
-go install git@github.com:phcarvalho/pryoritize.git
+go install github.com/phcarvalho/pryoritize
 mv ~/go/bin/pryoritize ~/go/bin/pry
 ```

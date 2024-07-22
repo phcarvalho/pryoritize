@@ -1,3 +1,3 @@
-module github.com/phcarvalho/reminder
+module github.com/phcarvalho/pryoritize
 
 go 1.22.1
